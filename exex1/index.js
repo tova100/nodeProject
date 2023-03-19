@@ -3,7 +3,7 @@ const slicer = require('./Slicer');
 console.log(process.argv);
 const discra = process.argv[2]
 const nameFunc = process.argv[3]
-
+console.log("f");
 
 // slicer..printArray(args);
 // console.log(multiple(...args)); // הופכים מערך לאיברים בודדים
